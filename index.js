@@ -2,7 +2,7 @@ if (
   (process.argv.length < 3 || process.argv.length > 6) &&
   !process.env.server
 ) {
-  console.log(Romashka020113.aternos.me:34211 korol piska228
+  console.log(node index.js Romashka020113.aternos.me:34211 {korol] [piska228]
     "Используйте бота так: node index.js <IP адрес сервера> [<имя аккаунта>] [<пароль от аккаунта>]"
   );
   process.exit(1);
